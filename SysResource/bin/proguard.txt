@@ -1,0 +1,4 @@
+# view res/layout/res_view_image_item.xml #generated:11
+# view res/layout/res_view_widget_selectitem.xml #generated:14
+-keep class com.baiwang.lib.view.image.BorderImageView { <init>(...); }
+
